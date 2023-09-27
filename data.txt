@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPnPs.webp",
+            "title": "standoff 2  fps 1",
+            "text_Content_": "Encourage the community to create and share custom maps. This can add variety to the gameplay and keep things fresh for players"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPxKG.webp",
+            "title": "standoff 2  fps 2",
+            "text_Content_": "Introduce new weapons, equipment, and skins. This can provide players with more choices and enhance the overall aesthetic of the game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPCVn.webp",
+            "title": "standoff 2  fps 3",
+            "text_Content_": "Experiment with new game modes to diversify the gaming experience. For example, you could introduce a Zombie Mode where players team up to survive waves of zombies or other unique challenges."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPBoX.webp",
+            "title": "standoff 2  fps 4",
+            "text_Content_": "Organize regular tournaments and in-game events with unique rewards. This not only keeps players engaged but also fosters a sense of competition within the community."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPKNI.webp",
+            "title": "standoff 2  fps 5",
+            "text_Content_": "Implement an interactive environment where players can use elements of the map strategically. For example, destructible objects or hidden passages that can be triggered for tactical advantages."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPFAN.webp",
+            "title": "standoff 2  fps 6",
+            "text_Content_": "Develop a storyline campaign mode that adds depth to the game. This can provide players with a narrative-driven experience and a reason to keep coming back to uncover more of the story."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbPftt.webp",
+            "title": "standoff 2  fps 7",
+            "text_Content_": "Introduce a clan system with the ability to declare wars on other clans. This can create a sense of community and competition among players."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbP39p.webp",
+            "title": "standoff 2  fps 8",
+            "text_Content_": "Consider implementing cross-platform play, allowing players on different devices to compete against each other. This can expand the player base and create a more dynamic gaming environment."
         }
     ]
 }
